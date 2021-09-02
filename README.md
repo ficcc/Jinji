@@ -1,4 +1,4 @@
-# prefix : @
+# prefix : ;
 
 ## Music Command
 - play {Song name/Song URL}
