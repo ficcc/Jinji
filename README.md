@@ -1,12 +1,11 @@
-# Music Command
+# prefix : @
 
-## prefix : @
-
-- play
+## Music Command
+- play {Song name/Song URL}
 - pause
 - queue
 - clear-queue
-- search
+- search {Search Keyword}
 - skip
 - stop
 - shuffle
