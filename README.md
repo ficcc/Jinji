@@ -10,3 +10,24 @@
 - stop
 - shuffle
 - loop
+
+## Filter 
+- 8d
+- gate
+- phaser
+- haas
+- treble
+- tremolo
+- vibrato
+- reverse
+- karaoke
+- flanger
+- mcompand
+- pulsator
+- subboost
+- bassboost
+- vaporwave
+- nightcore
+- normalizer
+- surrounding
+
