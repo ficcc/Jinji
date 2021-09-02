@@ -1,6 +1,6 @@
 # Music Command
 
-##prefix
+## prefix
 
 - play
 - pause
